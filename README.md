@@ -35,4 +35,4 @@ A typical Sudoku puzzle starts with some cells already filled with numbers. The 
 
 4)To solve a Sudoku puzzle, you need to apply logical reasoning and deduction. You start by examining the given numbers and identifying any cells that can only have one possible number based on the rules. Then you use these known numbers to eliminate possibilities in other cells and continue the process of elimination until the entire grid is filled.
 
-***Sudoku puzzles can range in difficulty, with some requiring basic techniques and others requiring more advanced strategies and multiple iterations of logical deductions. Solving Sudoku puzzles can be challenging, engaging, and a great exercise for improving logical thinking and problem-solving skills.**
+**Sudoku puzzles can range in difficulty, with some requiring basic techniques and others requiring more advanced strategies and multiple iterations of logical deductions. Solving Sudoku puzzles can be challenging, engaging, and a great exercise for improving logical thinking and problem-solving skills.**
